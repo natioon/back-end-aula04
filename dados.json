@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nome": "Marcelo Oliveira",
+    "cargo": "Professor Titular"
+  },
+  {
+    "id": 2,
+    "nome": "Fernanda Silva",
+    "cargo": "Analista de Sistemas"
+  }
+]
